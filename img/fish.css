@@ -1,0 +1,20 @@
+鱼（）;
+函数fish（）{
+    返回（
+      $（“＃footer-wrap”）。css（{
+        位置：“绝对”，
+        “ text-align”：“ center”，
+        上：0，
+        右：0，
+        左：0，
+        底部：0，
+      }），
+      $（“ footer”）。append（
+        '<div class =“ container” id =“ jsi-flying-fish-container”> </ div>'
+      ），
+      $（“ body”）。append（
+        '<脚本src =“ https://cdn.jsdelivr.net/gh/xiabo2/CDN@latest/fish.js”> </ script>'
+      ），
+      这个
+    ）;
+  }
