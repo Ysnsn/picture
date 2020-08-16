@@ -1,3 +1,4 @@
-图床😒
+## 图床😒
 大笨蛋郭明丽🐉
-![](https://api.ixiaowai.cn/gqapi/gqapi.php)
+采用jesdelivr加速【🚀🚀🚀🚀🚀🚀】
+![](https://acg.yanwz.cn/wallpaper/api.php)
